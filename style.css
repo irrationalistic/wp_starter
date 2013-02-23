@@ -1,0 +1,18 @@
+/*
+Theme Name: WP_Starter
+Theme URI: http://chrisrolfs.com/
+Author: Chris Rolfs
+Author URI: http://chrisrolfs.com/
+Description: Blank starter theme
+Version: 1.0
+
+
+
+NOTE: This theme uses LESS, so head to library/less to start editing the styles!
+
+SETUP:
+1. Copy this theme to your WP install and rename the folder
+2. Change THEME_DOMAIN constant in functions.php
+3. (optional) Copy the HTACCESS file to get gzip/expiring included
+4. Start adding custom pages! Try to keep things as simple as possible.
+*/
