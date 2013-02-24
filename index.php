@@ -12,7 +12,7 @@
 					
 					<article id="post-<?php the_ID(); ?>" <? post_class('clearfix'); ?> role="article">
 						<header>
-							<h1><? the_title(); ?>
+							<h1><? the_title(); ?></h1>
 						</header>
 						<section class="clearfix">
 							<? the_content(); ?>
